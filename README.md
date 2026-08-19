@@ -24,3 +24,4 @@ Copy the built `.jar` to your `mods` folder along with Fabric API.
 
 ## GUI
 Dark red themed GUI with rounded buttons and color pickers.
+Mod by WexSide
